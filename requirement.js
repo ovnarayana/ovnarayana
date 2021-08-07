@@ -31,3 +31,14 @@
 //To get all the publications done
 //To get a specific publication done
 //To get a list of publications based on a book 
+
+
+//post request
+//1. ADD NEW BOOK
+//2. ADD NEW PUBLICATIONS
+//3. ADD NEW AUTHOR
+
+
+//put
+
+//update book details if authour is changed

@@ -26,9 +26,9 @@ const books = [
   
   const publication = [
   {
-  id: 1,
+  id: 2,
   name: "writex",
-  books: ["12345Book","dbs"]
+  books: []
   }
   ]
   
